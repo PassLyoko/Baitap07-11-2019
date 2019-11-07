@@ -1,0 +1,11 @@
+.form-check{
+	float: left;
+	margin-left: 0.5rem;
+}
+.form-group{
+	height: 2.5rem;
+	width: 100%;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	padding-top: 0.3rem;
+}
